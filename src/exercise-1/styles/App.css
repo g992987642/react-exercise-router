@@ -1,0 +1,29 @@
+.header {
+    background: lightgray;
+}
+
+.href_list {
+    text-align: right;
+}
+
+.header a {
+    margin-right: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.app{
+    font-size: 18px;
+}
+
+
+.home, .my-profile, .about-us{
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.about-us p a{
+    color:red;
+    text-decoration: underline;
+}
